@@ -9,7 +9,7 @@ with open(join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='pydonuts',
-    version='1.0.0',
+    version='1.0.1',
     description='Library for work with VK Donuts app.',
     long_description=long_description,
     long_description_content_type='text/markdown',
