@@ -1,4 +1,4 @@
-# VK Donuts Python API
+# PyDonuts
 ## API для работы с приложением для сообществ — VK Donuts!
 ---
 ### Для установки библиотеки: ```pip install pydonuts```
